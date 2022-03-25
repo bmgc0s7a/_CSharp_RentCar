@@ -1,0 +1,15 @@
+C:\Users\T0121457\OneDrive - ATEC - Academia de Formação\_ATEC\UFCD\C#\TrabalhoPratico\TrabalhoPratico\bin\Debug\TrabalhoPratico.exe.config
+C:\Users\T0121457\OneDrive - ATEC - Academia de Formação\_ATEC\UFCD\C#\TrabalhoPratico\TrabalhoPratico\bin\Debug\TrabalhoPratico.exe
+C:\Users\T0121457\OneDrive - ATEC - Academia de Formação\_ATEC\UFCD\C#\TrabalhoPratico\TrabalhoPratico\bin\Debug\TrabalhoPratico.pdb
+C:\Users\T0121457\OneDrive - ATEC - Academia de Formação\_ATEC\UFCD\C#\TrabalhoPratico\TrabalhoPratico\obj\Debug\TrabalhoPratico.csprojAssemblyReference.cache
+C:\Users\T0121457\OneDrive - ATEC - Academia de Formação\_ATEC\UFCD\C#\TrabalhoPratico\TrabalhoPratico\obj\Debug\TrabalhoPratico.csproj.CoreCompileInputs.cache
+C:\Users\T0121457\OneDrive - ATEC - Academia de Formação\_ATEC\UFCD\C#\TrabalhoPratico\TrabalhoPratico\obj\Debug\TrabalhoPratico.exe
+C:\Users\T0121457\OneDrive - ATEC - Academia de Formação\_ATEC\UFCD\C#\TrabalhoPratico\TrabalhoPratico\obj\Debug\TrabalhoPratico.pdb
+C:\Users\bmgco\OneDrive - ATEC - Academia de Formação\_ATEC\UFCD\C#\TrabalhoPratico\TrabalhoPratico\bin\Debug\TrabalhoPratico.exe.config
+C:\Users\bmgco\OneDrive - ATEC - Academia de Formação\_ATEC\UFCD\C#\TrabalhoPratico\TrabalhoPratico\bin\Debug\TrabalhoPratico.exe
+C:\Users\bmgco\OneDrive - ATEC - Academia de Formação\_ATEC\UFCD\C#\TrabalhoPratico\TrabalhoPratico\bin\Debug\TrabalhoPratico.pdb
+C:\Users\bmgco\OneDrive - ATEC - Academia de Formação\_ATEC\UFCD\C#\TrabalhoPratico\TrabalhoPratico\obj\Debug\TrabalhoPratico.csproj.AssemblyReference.cache
+C:\Users\bmgco\OneDrive - ATEC - Academia de Formação\_ATEC\UFCD\C#\TrabalhoPratico\TrabalhoPratico\obj\Debug\TrabalhoPratico.csproj.SuggestedBindingRedirects.cache
+C:\Users\bmgco\OneDrive - ATEC - Academia de Formação\_ATEC\UFCD\C#\TrabalhoPratico\TrabalhoPratico\obj\Debug\TrabalhoPratico.csproj.CoreCompileInputs.cache
+C:\Users\bmgco\OneDrive - ATEC - Academia de Formação\_ATEC\UFCD\C#\TrabalhoPratico\TrabalhoPratico\obj\Debug\TrabalhoPratico.exe
+C:\Users\bmgco\OneDrive - ATEC - Academia de Formação\_ATEC\UFCD\C#\TrabalhoPratico\TrabalhoPratico\obj\Debug\TrabalhoPratico.pdb

@@ -1,0 +1,3 @@
+C:\Users\bmgco\OneDrive - ATEC - Academia de Formação\_ATEC\UFCD\C#\TrabalhoPratico\TrabalhoPratico\obj\Debug\TrabalhoPratico.csproj.AssemblyReference.cache
+C:\Users\bmgco\OneDrive - ATEC - Academia de Formação\_ATEC\UFCD\C#\TrabalhoPratico\TrabalhoPratico\obj\Debug\TrabalhoPratico.csproj.SuggestedBindingRedirects.cache
+C:\Users\bmgco\OneDrive - ATEC - Academia de Formação\_ATEC\UFCD\C#\TrabalhoPratico\TrabalhoPratico\obj\Debug\TrabalhoPratico.csproj.CoreCompileInputs.cache
